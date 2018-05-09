@@ -18,7 +18,7 @@ const EmptyCartDrawer = () => (
           <i className="fa fa-frown-o fa-lg" />
         </p>
         <p className="text-align">
-          <Components.Translation defaultValue="We're sad. Your cart is empty." i18nKey="cartDrawer.empty" />
+          <Components.Translation defaultValue="Your cart is empty. Add some magic!" i18nKey="cartDrawer.empty" />
         </p>
       </div>
       <div className="row">
