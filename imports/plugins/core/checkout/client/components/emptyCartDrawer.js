@@ -27,7 +27,7 @@ const EmptyCartDrawer = () => (
           bezelStyle="solid"
           className="btn-lg btn-block"
           i18nKeyLabel="cartDrawer.keepShopping"
-          label="Keep on shopping"
+          label="Continue Shopping"
           onClick={handleKeepShopping}
           status="warning"
         />
