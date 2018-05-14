@@ -7,15 +7,16 @@ a, p {
 .rui.navbar {
     background-color: white;
     color: black;
+    // padding-top: 10px !important;
 }
 
 // Store Name
-a.brand {
+/* a.brand {
     font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     font-size: 20px;
     color: #F5D2D6 !important;
     font-style: bold;
-}
+} */
 
 // Category Names
 .rui.tag.link {
@@ -36,12 +37,13 @@ header {
 }
 
 // Background on hover
-.navbar-item.has-dropdown:hover, .search:hover, .navbar-notification, .accounts, .rui.navbar.dropdown:hover {
+.navbar-item.has-dropdown:hover, .search:hover, .accounts{
     background-color: white !important;
 }
 
 // Cart
 .cart-icon {
+    max-height: @navbar-height;
     background-color: #F5D2D6 !important;
 }
 

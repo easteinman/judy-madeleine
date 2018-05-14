@@ -13,32 +13,32 @@ const linkTags = [
   {
     rel: "apple-touch-icon",
     sizes: "180x180",
-    href: "https://i.imgur.com/oECPhGd.png"
+    href: "https://i.imgur.com/TdYKvIr.png"  
   },
   {
     rel: "icon",
     type: "image/png",
     sizes: "32x32",
-    href: "https://i.imgur.com/oECPhGd.png"
+    href: "https://i.imgur.com/TdYKvIr.png"  
   },
   {
     rel: "icon",
     type: "image/png",
     sizes: "16x16",
-    href: "https://i.imgur.com/oECPhGd.png"
+    href: "https://i.imgur.com/TdYKvIr.png"  
   },
   {
     rel: "manifest",
-    href: "https://i.imgur.com/oECPhGd.png"
+    href: "https://i.imgur.com/TdYKvIr.png"  
   },
   {
     rel: "mask-icon",
     color: "#5bbad5",
-    href: "https://i.imgur.com/oECPhGd.png"
+    href: "https://i.imgur.com/TdYKvIr.png"  
   },
   {
     rel: "shortcut icon",
-    href: "https://i.imgur.com/oECPhGd.png"
+    href: "https://i.imgur.com/TdYKvIr.png"  
   }
 ];
 
@@ -47,7 +47,7 @@ const linkTags = [
 const metaTags = [
   {
     name: "msapplication-config",
-    content: `${basePath}browserconfig.xml`
+    content: "https://i.imgur.com/TdYKvIr.png"  
   },
   {
     name: "theme-color",

@@ -5,7 +5,7 @@
 
 
 // folder path where all assets live
-const basePath = "https://assets.reactioncommerce.com/favicon/";
+// const basePath = "https://assets.reactioncommerce.com/favicon/";
 
 
 // define link tags
@@ -13,32 +13,32 @@ const linkTags = [
   {
     rel: "apple-touch-icon",
     sizes: "180x180",
-    href: `${basePath}apple-touch-icon.png`
+    href: "https://i.imgur.com/TdYKvIr.png"
   },
   {
     rel: "icon",
     type: "image/png",
     sizes: "32x32",
-    href: `${basePath}favicon-32x32.png`
+    href: "https://i.imgur.com/TdYKvIr.png"
   },
   {
     rel: "icon",
     type: "image/png",
     sizes: "16x16",
-    href: `${basePath}favicon-16x16.png`
+    href: "https://i.imgur.com/TdYKvIr.png"
   },
   {
     rel: "manifest",
-    href: `${basePath}manifest.json`
+    href: "https://i.imgur.com/TdYKvIr.png"
   },
   {
     rel: "mask-icon",
     color: "#5bbad5",
-    href: `${basePath}safari-pinned-tab.svg`
+    href: "https://i.imgur.com/TdYKvIr.png"
   },
   {
     rel: "shortcut icon",
-    href: `${basePath}favicon.ico`
+    href: "https://i.imgur.com/TdYKvIr.png"
   }
 ];
 
@@ -47,7 +47,7 @@ const linkTags = [
 const metaTags = [
   {
     name: "msapplication-config",
-    content: `${basePath}browserconfig.xml`
+    content: "https://i.imgur.com/TdYKvIr.png"
   },
   {
     name: "theme-color",

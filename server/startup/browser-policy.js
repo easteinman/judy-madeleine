@@ -21,6 +21,7 @@ if (process.env.NODE_ENV === "development") {
   BrowserPolicy.content.allowConnectOrigin("ws://localhost:*");
   BrowserPolicy.content.allowConnectOrigin("http://localhost:*");
   BrowserPolicy.content.allowConnectOrigin("https://localhost:*");
+  BrowserPolicy.content.allowOriginForAll("*.imgur.com");
   BrowserPolicy.framing.allowAll();
 
   // GraphiQL
@@ -47,6 +48,7 @@ BrowserPolicy.content.allowImageOrigin("i0.wp.com");
 
 BrowserPolicy.content.allowFontDataUrl();
 BrowserPolicy.content.allowOriginForAll("assets.reactioncommerce.com");
+BrowserPolicy.content.allowOriginForAll("*.imgur.com");
 BrowserPolicy.content.allowOriginForAll("cdnjs.cloudflare.com");
 BrowserPolicy.content.allowOriginForAll("fonts.googleapis.com");
 BrowserPolicy.content.allowOriginForAll("fonts.gstatic.com");

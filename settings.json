@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+     "env": {
+       "MONGO_URL": "mongodb://ericsteinman:DaftPunk07@ds235778.mlab.com:35778/jmdb"
+     }
+   }
+}

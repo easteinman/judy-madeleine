@@ -71,8 +71,8 @@ class NavBar extends Component {
 
     return (
       <Components.Brand
-        logo={logo}
-        title={name || ""}
+        logo="https://i.imgur.com/oECPhGd.png"
+        // title={name || ""}
       />
     );
   }
