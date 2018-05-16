@@ -1,8 +1,8 @@
-{
+/* {
   "galaxy.meteor.com": {
     "env": {
       "MONGO_URL": "mongodb://eric:DaftPunk07@ds123830-a0.mlab.com:23830/judyandmadeleine",
       "MONGO_OPLOG_URL": "mongodb://oplog-reader:DaftPunk07@ds123830-a0.mlab.com:23830/local?replicaSet=rs-ds123830&authSource=admin"
     }
   }
-}
+}*/

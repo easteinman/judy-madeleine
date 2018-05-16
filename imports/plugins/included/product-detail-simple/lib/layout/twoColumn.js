@@ -18,11 +18,6 @@ export default function twoColumn() {
           component: "MediaGalleryContainer"
         },
 
-        // Tags
-        {
-          component: "ProductTags"
-        },
-
         // Metadata
         {
           component: "ProductMetadata"

@@ -70,11 +70,6 @@ export default function blocks() {
           component: "MediaGalleryContainer"
         },
 
-        // Tags
-        {
-          component: "ProductTags"
-        },
-
         // Metadata
         {
           component: "ProductMetadata"
