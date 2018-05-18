@@ -29,7 +29,7 @@
 <li>Ensure latest version of <a href="https://github.com/reactioncommerce/reaction-cli">reaction-cli</a> is installed <code>npm i -g reaction-cli</code></li>
 <li>After cloning the repo to your machine run <code>meteor npm install</code> in the terminal while inside the apps main folder to install the dependencies.</li>
 </ul>
-<h2 id="running-the-app">Running the App</h2>
+<h3 id="running-the-app">Running the App</h3>
 <p>Run the following command in the terminal while within the apps folder:</p>
 <pre><code>reaction
 </code></pre>
